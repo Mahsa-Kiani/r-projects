@@ -1,2 +1,2 @@
 # r-projects
-Data science project with R language
+Data science projects with R language
